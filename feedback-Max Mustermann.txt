@@ -1,0 +1,13 @@
+Received request from: Max Mustermann
+
+Unternehmen: Musterfirma GmbH
+
+Email: s0592037@htw-berlin.de
+
+Feedback: Der Kundendienst war sehr freundlich und hat mein Problem schnell gelöst. Vielen Dank für die professionelle Unterstützung!
+
+Request: Ich benötige weitere Informationen zur Produktverpackung und deren Lieferoptionen.
+
+Subject: Produktberatung für Algenverpackung
+
+Phone: +491512345678
